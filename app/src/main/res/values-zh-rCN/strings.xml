@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">简易翻译</string>
+    <string name="input_the_word_hint">输入单词或句子...</string>
+</resources>

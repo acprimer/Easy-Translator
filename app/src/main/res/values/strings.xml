@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Easy Translator</string>
+    <string name="input_the_word_hint">Input the word...</string>
+</resources>
