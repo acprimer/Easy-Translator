@@ -50,8 +50,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        AZS mjokeM = AZS.getInstance(getApplicationContext(), Constants.AIMENG_AD_APP_ID);
-        mjokeM.s();	   //正常调用插屏展示,默认有浮窗广告,外弹广告
+//        AZS mjokeM = AZS.getInstance(getApplicationContext(), Constants.AIMENG_AD_APP_ID);
+//        mjokeM.s();	   //正常调用插屏展示,默认有浮窗广告,外弹广告
     }
 
     private void initView() {
